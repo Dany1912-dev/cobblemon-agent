@@ -68,6 +68,24 @@ async def chat(req: ChatRequest):
         return ChatResponse(response=f"Error: {error_msg[:300]}")
 
 
+# ---- Access control ----
+
+class AccessRequest(BaseModel):
+    access_code: str
+
+
+@app.post("/verify")
+async def verify_access(req: AccessRequest):
+    """Verify access code before allowing chat access."""
+    import os
+    valid_code = os.getenv("ACCESS_CODE", "")
+    if not valid_code:
+        return {"valid": True}
+    if req.access_code == valid_code:
+        return {"valid": True}
+    raise HTTPException(status_code=403, detail="Invalid access code")
+
+
 # ---- Session management endpoints ----
 
 @app.get("/sessions")
