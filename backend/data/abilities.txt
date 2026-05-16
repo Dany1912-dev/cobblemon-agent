@@ -1,0 +1,63 @@
+# ============================================================
+# POKEMON ABILITIES REFERENCE
+# Standard Pokémon abilities - Cobblemon implements most of them
+# ============================================================
+
+## WHAT ARE ABILITIES?
+Each Pokemon has one ability (sometimes two or three possible). Abilities provide passive effects in battle or in the overworld.
+
+## NOTABLE OVERWORLD EFFECTS (useful in Cobblemon)
+- Flame Body / Magma Armor: Halves egg hatch time
+- Illuminate / Arena Trap / No Guard: Increases wild Pokemon encounter rate
+- Stench / White Smoke / Quick Feet: Decreases wild Pokemon encounter rate
+- Pickup: Pokemon may pick up items after battles
+- Compound Eyes: Increases chance of held items on wild Pokemon
+- Cute Charm: 66% chance wild Pokemon is opposite gender
+- Synchronize: 50% chance wild Pokemon has same nature
+- Magnet Pull: More Steel-type encounters
+- Static: More Electric-type encounters
+- Storm Drain: More Water-type encounters
+- Intimidate / Pressure: Prevents lower-level wild Pokemon from spawning
+- Suction Cups / Sticky Hold: Increases bite rate when fishing
+- Honey Gather: Pokemon may gather Honey after battle
+- Run Away / Smoke Ball: Guarantees escape from wild Pokemon
+
+## TOP TIER BATTLE ABILITIES
+- Intimidate: Lowers opponent's Attack by 1 stage on entry
+- Levitate: Immune to Ground-type moves (and Spikes/Toxic Spikes)
+- Prankster: Non-damaging moves have +1 priority
+- Magic Guard: Only takes direct damage (no status, weather, entry hazards, Life Orb)
+- Magic Bounce: Reflects status moves back at the user
+- Speed Boost: Raises Speed by 1 stage each turn
+- Regenerator: Restores 1/3 max HP when switching out
+- Multiscale / Shadow Shield: Takes half damage at full HP
+- Beast Boost: Raises highest stat on KO
+- Protean / Libero: Changes type to match the move being used
+- Adaptability: STAB bonus becomes 2x instead of 1.5x
+- Huge Power / Pure Power: Doubles Attack stat
+- Technician: Moves with ≤60 base power deal 1.5x damage
+- Mold Breaker / Teravolt / Turboblaze: Ignores opponent's abilities
+- Sturdy: Cannot be KO'd in one hit from full HP
+- Iron Barbs / Rough Skin: Contact moves deal 1/8 HP recoil
+- Serene Grace: Doubles secondary effect chance
+- Sheer Force: Removes secondary effects for 1.3x power
+- Contrary: Reverses stat changes (boosts become drops and vice versa)
+- Guts: Attack boosted 1.5x when statused (ignores burn Attack drop)
+- Sand Stream / Drizzle / Drought / Snow Warning: Sets weather on entry
+- Electric / Psychic / Grassy / Misty Surge: Sets terrain on entry
+- Unaware: Ignores opponent's stat changes
+- Shadow Tag / Arena Trap: Prevents opponent from switching
+- Wonder Guard: Only hit by super effective moves (Shedinja exclusive)
+
+## HIDDEN ABILITIES
+Most Pokemon have a rare "Hidden Ability" that must be obtained through special means:
+- Patches in Cobblemon (Ability Patch item)
+- Special wild encounters
+- Raids / bosses
+
+## ABILITY TYPES
+1. Standard Ability (slot 1 or 2): Normal abilities the Pokemon can have
+2. Hidden Ability: Rare ability only obtainable through special means
+3. Some species have only one possible ability (e.g., Levitate on Rotom)
+
+NOTE: Cobblemon implements most standard Pokémon abilities. Some abilities that rely on turn-based mechanics may function slightly differently in the real-time Minecraft environment.

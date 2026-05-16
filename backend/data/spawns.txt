@@ -1,0 +1,115 @@
+# ============================================================
+# COBBLEMON POKEMON SPAWNS - Biome & Location Reference
+# Based on Cobblemon spawn sheets (Google Drive) + general Pokémon habitat knowledge
+# ============================================================
+
+## SPAWNING MECHANICS
+- Pokemon spawn naturally in specific biomes depending on their species
+- Spawns can be affected by: time of day, weather, nearby blocks, Y-level, structures
+- Some Pokemon only spawn in specific structures (villages, temples, etc.)
+- Legendary Pokemon have special spawn conditions (often via shrines or structures)
+- Water Pokemon spawn in oceans, rivers, lakes, swamps
+- Underground Pokemon spawn in caves and at lower Y-levels
+- Some Pokemon require specific blocks nearby (flowers, stone types, etc.)
+
+## BIOME CATEGORIES (Cobblemon uses standard Minecraft biomes)
+- Plains / Sunflower Plains
+- Forest / Flower Forest / Birch Forest / Dark Forest / Roosted Forest
+- Taiga / Snowy Taiga / Old Growth Taiga
+- Jungle / Sparse Jungle / Bamboo Jungle
+- Desert
+- Swamp / Mangrove Swamp
+- Beach / Snowy Beach / Stony Shore
+- River / Frozen River
+- Ocean / Deep Ocean / Warm Ocean / Cold Ocean / Frozen Ocean / Lukewarm Ocean
+- Mountains / Extreme Hills / Windswept Hills
+- Snowy Plains / Ice Spikes / Snowy Slopes / Frozen Peaks
+- Caves / Lush Caves / Dripstone Caves / Deep Dark
+- Nether (Nether Wastes, Crimson Forest, Warped Forest, Soul Sand Valley, Basalt Deltas)
+- End (End Highlands, End Midlands, End Barrens)
+- Cherry Grove
+- Meadow
+- Badlands / Wooded Badlands / Eroded Badlands
+- Savanna / Savanna Plateau / Windswept Savanna
+- Mushroom Fields
+
+## COMMON SPAWN EXAMPLES (Based on Cobblemon spawn data)
+- Pidgey, Rattata, Sentret, Hoothoot, Zigzagoon, Bidoof, Patrat, Wooloo: Plains, Forests (day)
+- Hoothoot, Noctowl, Spinarak, Gastly: Forests, Taigas (night)
+- Caterpie, Weedle, Wurmple: Forests, Flower Forests
+- Pikachu, Electrike, Blitzle: Plains, Savannas
+- Magikarp, Tentacool, Wingull, Shellos: Oceans, Beaches, Rivers
+- Goldeen, Finneon, Basculin: Rivers, Lakes
+- Geodude, Zubat, Onix: Caves, Mountains, Underground
+- Sandshrew, Numel, Maractus: Deserts, Badlands
+- Snorunt, Swinub, Snover, Cryogonal: Snowy biomes
+- Houndour, Ponyta, Magmar, Charmander: Nether
+- Eevee: Plains, Forests (rare)
+- Ditto: All biomes (very rare)
+- Ralts, Kirlia: Flower Forests, Cherry Groves, Meadows
+- Riolu, Lucario: Mountains, Extreme Hills
+- Gible, Gabite: Caves, Dripstone Caves
+- Bagon, Shellgon: Mountains, Extreme Hills
+- Beldum, Metang: Mountains, Caves
+- Dratini, Dragonair: Oceans, Deep Oceans
+- Larvitar, Pupitar: Deserts, Badlands, Caves
+- Goomy, Sligoo: Swamps, Mangrove Swamps
+- Dreepy, Drakloak: Swamps, End
+- Axew, Fraxure: Caves, Mountains
+- Deino, Zweilous: Caves, Nether
+- Spiritomb: Caves, Deep Dark (rare)
+
+## LEGENDARY SPAWNS (Special conditions via shrines/structures)
+- Articuno: Ice Spikes shrine, Snowy Peaks
+- Zapdos: Savanna Plateau shrine
+- Moltres: Nether (Basalt Deltas), Desert shrine
+- Mewtwo: End shrines (rare)
+- Mew: Jungle temples (extremely rare)
+- Raikou, Entei, Suicune: Plains, Desert, Snowy shrines
+- Lugia: Deep Ocean shrines
+- Ho-Oh: Mountain peak shrines
+- Celebi: Flower Forest, Cherry Grove (rare, daytime)
+- Regirock, Regice, Registeel: Desert, Ice, Mountain caves
+- Latias, Latios: Ocean, Extreme Hills (rare)
+- Kyogre: Deep Ocean shrines
+- Groudon: Desert, Badlands shrines
+- Rayquaza: Extreme Hills peaks
+- Jirachi: Caves (extremely rare, night)
+- Deoxys: End shrines
+- Uxie, Mesprit, Azelf: Lakes, Rivers, Caves
+- Dialga, Palkia: Mountains, Caves (time/space altars)
+- Heatran: Nether (lava lakes)
+- Regigigas: Mountain caves
+- Giratina: Deep Dark, End
+- Cresselia: Plains, Meadows (night, full moon)
+- Darkrai: Deep Dark, Roofed Forest (night)
+- Arceus: All biomes (ultra rare, special structures)
+- Victini: Deserts, Badlands
+- Reshiram, Zekrom: Mountains, Nether, End shrines
+- Kyurem: Ice Spikes, Snowy Peaks
+- Keldeo: Rivers, Lakes
+- Meloetta: Flower Forests, Cherry Groves
+- Genesect: Caves, Deep Dark
+- Xerneas, Yveltal: Dark Forest, Cherry Grove
+- Zygarde: Caves, Deep Dark
+- Type: Null/Silvally: (special event)
+- Tapu Koko/Lele/Bulu/Fini: Jungles, Beaches, Deserts, Swamps
+- Cosmog/Cosmoem: Beaches, Oceans
+- Solgaleo/Lunala: Deserts, Extreme Hills (day/night)
+- Necrozma: End, Deep Dark
+- Magearna: Savannas, Meadows
+- Marshadow: Caves (ultra rare)
+- Zeraora: Savannas, Plains
+- Meltan/Melmetal: Caves, Mountains
+- Zacian, Zamazenta: Dark Forest, Extreme Hills
+- Eternatus: End
+- Kubfu/Urshifu: Mountains, Caves
+- Regieleki/Regidrago: Mountains, Caves
+- Glastrier/Spectrier: Ice Spikes, Dark Forest
+- Calyrex: Snowy biomes, Forests
+- Enamorus: Swamps, Plains
+- Koraidon/Miraidon: Desert/Plains (day), End/Caves
+
+NOTE: This spawn data is based on community sheets and general Pokémon habitats.
+For the most up-to-date spawn information, check the official Cobblemon spawn sheets on Google Drive.
+Spawn rates and conditions can change between Cobblemon versions.

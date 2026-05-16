@@ -1,0 +1,313 @@
+# ============================================================
+# COMPETITIVE POKEMON — Team Building & Strategy Guide
+# Covers: roles, archetypes, synergy, team building, meta
+# ============================================================
+
+## TEAM ROLES (Every Pokemon on a team fills at least one role)
+
+### Offensive Roles
+- **Physical Sweeper**: Uses setup moves (Swords Dance, Dragon Dance) to sweep. High Atk/Spe. Examples: Garchomp, Blaziken, Roaring Moon, Great Tusk
+- **Special Sweeper**: Uses setup (Nasty Plot, Calm Mind, Quiver Dance) to sweep. High SpA/Spe. Examples: Volcarona, Gholdengo, Iron Valiant, Walking Wake
+- **Mixed Sweeper**: Can hit from both sides to break through specialized walls. Examples: Iron Valiant, Dragapult, Salamence
+- **Wallbreaker**: Breaks through defensive walls with raw power. Choiced items, high BP moves. Examples: Chi-Yu, Raging Bolt, Ursaluna, Hoopa-Unbound
+- **Revenge Killer**: Fast Pokemon with priority or Choice Scarf to KO weakened threats. Examples: Scizor (Bullet Punch), Kingambit (Sucker Punch), Dragapult (fast + Scarf)
+- **Cleaner**: Fast Pokemon saved for late-game when threats are weakened. Examples: Choice Scarf Gholdengo, Booster Energy Iron Valiant
+
+### Defensive Roles
+- **Physical Wall**: High Def + HP. Absorbs physical hits. Examples: Dondozo, Corviknight, Skarmory, Toxapex, Great Tusk
+- **Special Wall**: High SpD + HP. Absorbs special hits. Examples: Blissey, Clodsire, Ting-Lu, Slowking
+- **Mixed Wall**: High Def AND SpD. Examples: Ferrothorn, Toxapex, Garganacl, Corviknight
+- **Pivot**: Switches in and out using U-turn/Volt Switch/Flip Turn/Teleport. Gains momentum. Examples: Landorus-Therian, Rotom-Wash, Corviknight, Dragapult, Meowscarada
+
+### Utility Roles
+- **Hazard Setter**: Sets entry hazards (Stealth Rock, Spikes, Toxic Spikes, Sticky Web). Examples: Hisuian Samurott, Glimmora, Ting-Lu, Ribombee (Web)
+- **Hazard Remover**: Rapid Spin / Defog / Mortal Spin to clear hazards. Examples: Great Tusk (Spin), Iron Treads (Spin), Corviknight (Defog)
+- **Status Spreader**: Inflicts status (Thunder Wave, Will-O-Wisp, Toxic, Spore). Examples: Rotom-Wash (Will-O-Wisp), Amoonguss (Spore), Dragapult (Thunder Wave)
+- **Cleric**: Heals team's status with Heal Bell/Aromatherapy, or Wish passing. Examples: Blissey, Chansey, Sylveon, Alomomola (Wish)
+- **Screens Setter**: Sets up Reflect/Light Screen for Hyper Offense. Examples: Alolan Ninetales (Aurora Veil), Grimmsnarl (Prankster dual screens)
+- **Weather Setter**: Sets weather for weather teams. Examples: Pelipper (Drizzle), Torkoal (Drought), Tyranitar/Hippowdon (Sand Stream), Alolan Ninetales (Snow Warning)
+- **Terrain Setter**: Sets terrain with ability or move. Examples: Tapu Koko (Electric Surge), Rillaboom (Grassy Surge), Indeedee (Psychic Surge), Tapu Fini (Misty Surge)
+
+## TEAM ARCHETYPES
+
+### 1. Hyper Offense (HO)
+- Full offensive pressure, 5-6 sweepers/wallbreakers
+- Usually has a Screens setter (Grimmsnarl/Alolan Ninetales) or suicide lead (Glimmora)
+- No defensive switching — sacrifice attackers to bring in the next
+- Speed control via priority moves, Choice Scarf, or Sticky Web
+- Example: Grimmsnarl + Roaring Moon + Iron Valiant + Dragonite + Kingambit + Volcarona
+
+### 2. Bulky Offense
+- 3-4 offensive Pokemon + 2-3 bulky pivots
+- Pivots bring in attackers safely
+- Less frail than HO, can take some hits
+- Most common playstyle in OU
+- Example: Landorus-T + Rotom-Wash + Dragapult + Gholdengo + Great Tusk + Kingambit
+
+### 3. Balance
+- Equal mix: 2 walls, 2 pivots, 2 attackers (approximately)
+- Aims to have a defensive answer to everything
+- Focuses on hazard control and gradual damage
+- Long-term planning, switching, predicting
+- Example: Toxapex + Ferrothorn + Landorus-T + Tornadus-T + Garchomp + Dragapult
+
+### 4. Semi-Stall
+- 4 defensive Pokemon + 2 win conditions
+- Wears down opponent with hazards + status
+- Wincons clean up after team is weakened
+- Example: Blissey + Toxapex + Skarmory + Clefable + setup sweeper + cleaner
+
+### 5. Stall
+- Full defense. 6 walls that cover all threats
+- Wins by PP stalling and chip damage
+- Relies on hazards, status, and passive recovery
+- Example: Blissey + Dondozo + Corviknight + Clodsire + Garganacl + Toxapex
+
+## TYPE SYNERGY — Building Defensive Cores
+
+### Fire-Water-Grass Core (Classic)
+The foundation of balanced teams. Each type covers the others' weaknesses:
+- Fire covers Grass's Ice weakness, Water covers Fire's Ground/Rock weaknesses, Grass covers Water's Electric/Grass weaknesses
+- Heatran + Gastrodon + Amoonguss
+- Volcarona + Rotom-Wash + Rillaboom
+
+### Dragon-Steel-Fairy Core (Modern)
+The Gen VI+ standard defensive backbone:
+- Dragon resists Fire/Water/Electric, Steel resists Dragon/Fairy/Ice, Fairy resists Fighting/Dark and is immune to Dragon
+- Garchomp + Ferrothorn + Clefable
+- Dragapult + Gholdengo + Iron Valiant
+- Roaring Moon + Corviknight + Enamorus
+
+### Steel-Fairy Core
+- Steel covers Fairy's Steel/Poison weaknesses
+- Fairy covers Steel's Fighting weakness
+- Ferrothorn + Clefable / Corviknight + Sylveon
+
+### Flying-Steel Core (SkarmBliss / Skarmory + Blissey variant)
+- Flying immune to Ground, resists Fighting
+- Steel resists Rock, Ice, Electric
+- Corviknight + Gholdengo / Skarmory + Heatran
+
+### Psychic-Dark-Fighting
+Offensive core. Each type beats the others' checks:
+- Fighting beats Dark/Steel (Dark resists), Dark beats Psychic/Ghost, Psychic beats Fighting/Poison
+- Iron Valiant + Gholdengo + Kingambit
+
+## OFFENSIVE SYNERGY
+
+### Stacking Same-Type Threats
+- Run multiple Pokemon of same type to overwhelm shared checks
+- "Bird spam": Multiple strong Flying types to wear down Steel checks
+- "Sand + Rock spam": Tyranitar + Excadrill + Garganacl
+- "Dragon spam": Multiple Dragons to wear down Fairy/Steel checks
+
+### Lure + Sweeper
+- One mon baits in and weakens/kills the other's check
+- Magnezone traps and kills Steel types so Dragon sweeper can clean
+- Pursuit trappers remove Ghosts so Psychic sweeper can clean
+
+### Dual Screens + Setup Sweeper
+- Screens setter (Grimmsnarl, Alolan Ninetales) + setup sweeper that's frail
+- Behind screens: Glass cannons become surprisingly bulky
+
+### Weather Abuse
+- Rain: Pelipper + Swift Swim sweepers (Barraskewda, Floatzel, Kingdra)
+- Sun: Torkoal + Chlorophyll sweepers (Venusaur, Scovillain) + Protosynthesis mons (Roaring Moon, Flutter Mane)
+- Sand: Tyranitar/Hippowdon + Sand Rush Excadrill + Rock/Ground/Steel types
+- Snow: Alolan Ninetales + Slush Rush (Cetitan) + Ice types (defense boost in snow)
+
+## TEAM BUILDING — Step by Step
+
+### Step 1: Pick Your Pokemon (Core)
+Start with the Pokemon you want to build around. Identify:
+- What is it good at? (sweeping, wallbreaking, walling)
+- What stops it? (counters, checks)
+- What archetype does it fit? (HO, balance, weather, etc.)
+- Does it need support? (hazard removal, screens, pivot support)
+
+### Step 2: Add Defensive Synergy
+- Can your team switch into common threats?
+- Add Pokemon that cover the core's weaknesses
+- Include at least one Ground immunity/resist, one Steel type, one Fairy type
+
+### Step 3: Add Hazard Control
+- Stealth Rock user (mandatory for any serious team)
+- Hazard removal (Rapid Spin > Defog usually)
+- Maybe: Spikes, Toxic Spikes, Sticky Web depending on archetype
+
+### Step 4: Add Speed Control
+- At least one fast attacker (naturally fast or Scarf)
+- Priority moves for revenge killing
+- Ways to handle opposing setup sweepers
+
+### Step 5: Add Win Conditions
+- Something that can end the game after team is prepared
+- Setup sweeper, Choice item cleaner, or bulky wincon (Calm Mind Clefable, Curse Dondozo)
+
+### Step 6: Check Meta Threats
+- Can you handle top meta threats?
+- Do you have an answer for: opposing setup, stall, weather, Trick Room?
+
+## SPEED TIERS (important benchmarks at Lv50 and Lv100)
+
+### Common Speed Benchmarks
+- 200+ Speed: Ultra fast (Dragapult, Zacian, Pheromosa). Highest natural speed.
+- 150-199: Very fast (Mega Lopunny, Mega Manectric). Outspeeds most meta.
+- 130-149: Fast (Iron Bundle, Flutter Mane, Mega Gengar, Tapu Koko)
+- 110-129: Above average (Latios, Mega Diancie, Gengar, Espeon)
+- 100-109: Average baseline (Charizard, Salamence, Jirachi, Volcarona)
+- 90-99: Slightly below average (Lucario, Roserade, Mega Scizor)
+- 80-89: Slow (Venusaur, Dragonite, non-Mega Gyarados)
+- 60-79: Slower (Tyranitar, Scizor, Heatran, Skarmory)
+- 40-59: Very slow (Azumarill, Clefable, Corviknight, bulky pivots)
+- <40: Ultra slow / Trick Room (Ferrothorn, Slowbro, Snorlax, Ursaluna)
+
+### Speed Items/Abilities Benchmarks
+- Choice Scarf: 1.5x Speed. Slow mon like Heatran (77 base) outspeeds base 110+.
+- Swift Swim (Rain): 2x Speed. Barraskewda (136 base) becomes nearly impossible to outspeed.
+- Chlorophyll (Sun): 2x Speed. Venusaur (80 base) becomes very fast.
+- Sand Rush: 2x Speed in Sand. Excadrill (88 base) becomes excellent.
+- Slush Rush: 2x Speed in Snow. Cetitan (73 base) becomes relevant.
+- Unburden: 2x Speed when item consumed. Hawlucha activates + outspeeds the meta.
+- Booster Energy: +1 Speed (1.5x). Iron Valiant, Iron Bundle become terrifying.
+- Dragon Dance / Quiver Dance: +1 Speed per use. Garchomp after 1 DD outspeeds most.
+- Sticky Web: -1 Speed for grounded opponents. Enables slower wallbreakers.
+
+## COMPETITIVE ITEMS
+
+### Damage Boosters
+- Choice Band: 1.5x Atk, locked into one move. For physical wallbreakers.
+- Choice Specs: 1.5x SpA, locked into one move. For special wallbreakers.
+- Life Orb: 1.3x all damage but -10% HP per hit. For mixed attackers and sweepers.
+- Expert Belt: 1.2x super-effective moves. Good on coverage-heavy attackers.
+- Booster Energy: +1 to highest stat (consumed on switch-in). Paradox Pokemon meta.
+
+### Speed Items
+- Choice Scarf: 1.5x Speed, locked into one move. For revenge killers.
+- Booster Energy: Can also boost Speed.
+
+### Survivability
+- Leftovers: 1/16 HP per turn. For defensive mons and bulky setup.
+- Heavy-Duty Boots: Ignore entry hazards. Meta-defining item.
+- Assault Vest: 1.5x SpD, no status moves. For bulky pivots.
+- Rocky Helmet: Contact moves damage attacker. For physical walls.
+- Focus Sash: Survive at 1 HP from full. For frail leads and sweepers.
+- Air Balloon: Ground immunity until hit. For setup opportunities.
+
+### Setup Items
+- Light Clay: Extends screens to 8 turns. For screen setters.
+- Heat/Damp/Icy/Smooth Rock: Extends weather. For weather teams.
+- Terrain Extender: Extends terrain. For terrain teams.
+- Mental Herb: Cures Taunt. For setup sweepers vulnerable to Taunt.
+- White Herb: Cures stat drops. Good with Shell Smash or Superpower.
+- Power Herb: Skip charge turn. For Solar Beam, Meteor Beam, Geomancy.
+
+### Utility
+- Eject Button: Switch on hit. Creates free switches.
+- Red Card: Force out attacker on first hit. Anti-setup.
+- Shed Shell: Escape Shadow Tag/Arena Trap. For defensive mons.
+
+## POPULAR META POKEMON & ROLES
+
+### Common Offensive Threats (Gen IX OU-style)
+- **Dragapult**: Fast pivot, Choice Specs nuke, Will-O-Wisp spreader
+- **Gholdengo**: Hazard blocker (Good as Gold), Choice Scarf cleaner, Nasty Plot breaker
+- **Great Tusk**: Physical wallbreaker, Rapid Spin user, Stealth Rock setter
+- **Kingambit**: Late-game sweeper (Supreme Overlord), Sucker Punch revenge killer
+- **Iron Valiant**: Mixed sweeper, Booster Energy cleaner, Choice Specs wallbreaker
+- **Roaring Moon**: Dragon Dance sweeper, Choice Band wallbreaker, Acrobatics + Booster Energy
+- **Volcarona**: Quiver Dance sweeper, Flame Body pivot, devastating once boosted
+- **Chi-Yu**: Special nuke with Choice Specs, Nasty Plot breaker. Insane damage.
+- **Flutter Mane**: Fast special sweeper, Calm Mind wincon, Choice Specs.
+- **Walking Wake**: Sun sweeper, Hydro Steam + Flamethrower + Draco Meteor terror
+
+### Common Defensive Threats
+- **Corviknight**: Physical pivot, Defogger, U-turn momentum. Sets up Bulk Up.
+- **Toxapex**: Mixed wall, Regenerator pivot, Toxic/Toxic Spikes, Haze.
+- **Blissey/Chansey**: Special walls, cleric, Wish pass, Teleport pivot.
+- **Dondozo**: Physical wall, Curse wincon, Unaware ignores boosts.
+- **Ting-Lu**: Special wall, Stealth Rock, Whirlwind, Ruination.
+- **Ferrothorn**: Mixed wall, Spikes setter, Leech Seed, Iron Barbs.
+- **Garganacl**: Mixed wall, Salt Cure chip, Stealth Rock, Curse wincon.
+- **Alomomola**: Physical wall, Wish pass, Scald burn, Regenerator pivot.
+- **Clodsire**: Special wall, Unaware, Toxic, Stealth Rock, Recover.
+
+### Common Pivots
+- **Landorus-Therian**: Ground immunity, Intimidate, Stealth Rock, U-turn
+- **Rotom-Wash**: Levitate, Water/Electric coverage, Volt Switch, Will-O-Wisp
+- **U-turn Dragapult**: Fast pivot, status spreader, hazard immune
+- **Meowscarada**: Fast U-turn, Knock Off, Flower Trick (always crits)
+- **Rillaboom**: Grassy Surge (half EQ damage), Grassy Glide priority, U-turn
+- **Iron Treads**: Rapid Spin + Stealth Rock + Volt Switch. Ground immune.
+
+## STRATEGIES FOR SPECIFIC POKEMON
+
+### Building Around a Physical Sweeper
+1. Identify what walls it (physical walls like Dondozo, Toxapex, Corviknight)
+2. Add special attacker that beats those walls
+3. Provide hazard support (Stealth Rock chips switch-ins)
+4. Consider Magnezone to trap Steel types blocking the sweep
+5. Add pivots to bring sweeper in safely
+
+### Building Around a Special Sweeper
+1. Identify special walls (Blissey, Clodsire, Ting-Lu)
+2. Add physical breaker or trapper for those walls
+3. Provide setup opportunities (screens, Memento, U-turn)
+4. Hazard support against Sturdy/Focus Sash users
+5. Speed control for faster threats
+
+### Building Around a Bulky Setup Sweeper
+1. Add cleric support (Heal Bell) to cure status
+2. Partner Pokemon that can remove its counters
+3. Screens support to ensure setup turn
+4. Entry hazard removal (bulky sweepers switch in often)
+
+## WEATHER TEAMS
+
+### Rain Team Core
+- Pelipper (Drizzle setter) — mandatory. Slow U-turn for safe switch-ins.
+- Swift Swim sweeper: Barraskewda, Floatzel, Kingdra
+- Electric type: Zapdos, Thundurus-T (100% accurate Thunder)
+- Steel type: Ferrothorn (fire weakness reduced), Scizor
+- Ground type: Great Tusk, Gastrodon (cover Electric)
+- Rain also enables: Hurricane (100% accurate), Weather Ball (100 BP Water)
+
+### Sun Team Core
+- Torkoal (Drought setter) — mandatory. Stealth Rock also.
+- Chlorophyll sweeper: Venusaur, Scovillain, Lilligant-Hisui
+- Protosynthesis users: Roaring Moon, Flutter Mane, Great Tusk
+- Fire types get 1.5x boost: Skeledirge, Volcarona, Iron Moth, Chi-Yu
+- Walking Wake is amazing in Sun (Hydro Steam boosted)
+- Moonlight/Morning Sun heals 66% in Sun
+
+### Sand Team Core
+- Tyranitar or Hippowdon (Sand Stream) — mandatory
+- Sand Rush: Excadrill
+- Rock/Ground/Steel types get SpD boost
+- Garganacl, Skarmory, Ferrothorn fit naturally
+- Sand chip damage wears down Focus Sash users
+
+### Snow Team Core
+- Alolan Ninetales (Snow Warning + Aurora Veil) — ideal
+- Slush Rush: Cetitan, Beartic
+- Ice types get +1 Def in Snow
+- Aurora Veil = Reflect + Light Screen in one move
+
+## TRICK ROOM (Espacio Raro en español)
+- Movimiento de estado tipo Psíquico. Prioridad -7 (siempre se mueve al final).
+- Efecto: Invierte el orden de velocidad por 5 turnos. Los Pokémon MÁS LENTOS atacan primero.
+- NO es un bioma, NO es una ubicación. Es una alteración del campo de batalla.
+- Setters recomendados: Hatterene (Magic Bounce anti-Taunt), Cresselia, Porygon2 (Eviolite), Slowking, Farigiraf, Indeedee-F (Psychic Surge), Gallade
+- Abusadores: Ursaluna (Guts + Flame Orb), Torkoal (Eruption), Iron Hands (Booster Energy), Conkeldurr (Guts), Rhyperior, Marowak-Alola (Thick Club), Crawdaunt
+- Items clave: Room Service (baja Speed al entrar en Trick Room), Mental Herb (bloquea Taunt), Iron Ball (reduce Speed a la mitad)
+- Counter: Hacer Taunt al setter, usar movimientos con prioridad, stallear con Protect, usar tu propio Trick Room para cancelarlo
+- Ten al menos 1 Pokémon que funcione fuera de Trick Room por si expira
+
+## TERRAIN TEAMS
+- Electric Terrain: Tapu Koko / Pincurchin. Boosts Electric moves, blocks sleep.
+- Grassy Terrain: Rillaboom. Halves Earthquake damage, heals 1/16 per turn.
+- Psychic Terrain: Indeedee / Tapu Lele. Blocks priority moves, boosts Psychic.
+- Misty Terrain: Tapu Fini. Blocks status, halves Dragon damage.
+- Key item: Terrain Extender for 8 turns
+
+NOTE: Competitive meta changes with each format/generation. The principles here apply broadly. For current meta data, ask about specific Pokemon or formats, and this agent can use its knowledge combined with PokéAPI verification.

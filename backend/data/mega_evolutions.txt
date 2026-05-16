@@ -1,0 +1,114 @@
+# ============================================================
+# MEGA EVOLUTIONS - Complete Reference
+# Source: bulbapedia.bulbagarden.net + verified game data
+# 48+ Mega Evolutions across all generations
+# ============================================================
+
+## WHAT ARE MEGA EVOLUTIONS?
+- Temporary evolution during battle using a Mega Stone
+- Only one Mega Evolution per battle (per team)
+- Pokemon reverts after battle ends
+- Mega Evolution gives: stat boost (+100 BST total), possible type change, possible ability change
+- Requires: matching Mega Stone held by Pokemon + Mega Ring/Key Stone on trainer
+- In Cobblemon: likely activated via Mega Stone item + key item
+
+## COMPLETE MEGA EVOLUTION LIST
+
+### GEN VI (X & Y) - 30 Mega Forms
+
+| # | Mega Pokemon | Mega Stone | Type | Ability | Stat Changes |
+|---|-------------|------------|------|---------|---------------|
+| 1 | Mega Venusaur | Venusaurite | Grass/Poison | Thick Fat | +40 Def, +40 SpD, +20 SpA |
+| 2 | Mega Charizard X | Charizardite X | Fire/Dragon | Tough Claws | +46 Atk, +33 Def, +21 SpA |
+| 3 | Mega Charizard Y | Charizardite Y | Fire/Flying | Drought | +20 Atk, +50 SpA, +30 SpD |
+| 4 | Mega Blastoise | Blastoisinite | Water | Mega Launcher | +20 Atk, +20 Def, +50 SpA, +10 SpD |
+| 5 | Mega Alakazam | Alakazite | Psychic | Trace | +20 Def, +40 SpA, +10 SpD, +30 Spe |
+| 6 | Mega Gengar | Gengarite | Ghost/Poison | Shadow Tag | +20 Def, +40 SpA, +20 SpD, +20 Spe |
+| 7 | Mega Kangaskhan | Kangaskhanite | Normal | Parental Bond | +30 Atk, +20 Def, +20 SpA, +20 SpD, +10 Spe |
+| 8 | Mega Pinsir | Pinsirite | Bug/Flying | Aerilate | +30 Atk, +20 Def, +10 SpA, +20 SpD, +20 Spe |
+| 9 | Mega Gyarados | Gyaradosite | Water/Dark | Mold Breaker | +30 Atk, +30 Def, +10 SpA, +30 SpD |
+| 10 | Mega Aerodactyl | Aerodactylite | Rock/Flying | Tough Claws | +30 Atk, +20 Def, +10 SpA, +20 SpD, +20 Spe |
+| 11 | Mega Mewtwo X | Mewtwonite X | Psychic/Fighting | Steadfast | +80 Atk, +20 Def, +20 SpA, +10 SpD |
+| 12 | Mega Mewtwo Y | Mewtwonite Y | Psychic | Insomnia | +40 Atk, +20 Def, +40 SpA, +30 SpD, +10 Spe |
+| 13 | Mega Ampharos | Ampharosite | Electric/Dragon | Mold Breaker | +20 Atk, +20 Def, +50 SpA, +20 SpD, -10 Spe |
+| 14 | Mega Scizor | Scizorite | Bug/Steel | Technician | +20 Atk, +40 Def, +10 SpA, +20 SpD, +10 Spe |
+| 15 | Mega Heracross | Heracronite | Bug/Fighting | Skill Link | +60 Atk, +40 Def, +10 SpA, +10 SpD, -10 Spe |
+| 16 | Mega Houndoom | Houndoominite | Dark/Fire | Solar Power | +10 Atk, +40 Def, +30 SpA, +10 SpD, +10 Spe |
+| 17 | Mega Tyranitar | Tyranitarite | Rock/Dark | Sand Stream | +30 Atk, +40 Def, +20 SpD, +10 Spe |
+| 18 | Mega Blaziken | Blazikenite | Fire/Fighting | Speed Boost | +40 Atk, +10 Def, +20 SpA, +10 SpD, +20 Spe |
+| 19 | Mega Gardevoir | Gardevoirite | Psychic/Fairy | Pixilate | +20 Atk, +20 Def, +40 SpA, +20 SpD, +20 Spe |
+| 20 | Mega Mawile | Mawilite | Steel/Fairy | Huge Power | +20 Atk (Huge Power doubles), +40 Def, +40 SpD |
+| 21 | Mega Aggron | Aggronite | Steel (pure) | Filter | +30 Atk, +50 Def, +20 SpD |
+| 22 | Mega Medicham | Medichamite | Fighting/Psychic | Pure Power | +40 Atk (Pure Power doubles), +10 Def, +20 SpA, +10 SpD, +20 Spe |
+| 23 | Mega Manectric | Manectite | Electric | Intimidate | +20 Def, +40 SpA, +10 SpD, +30 Spe |
+| 24 | Mega Banette | Banettite | Ghost | Prankster | +50 Atk, +10 Def, +10 SpA, +20 SpD, +10 Spe |
+| 25 | Mega Absol | Absolite | Dark | Magic Bounce | +20 Atk, +20 Def, +40 SpA, +20 SpD, +40 Spe |
+| 26 | Mega Latias | Latiasite | Dragon/Psychic | Levitate | +20 Atk, +30 Def, +30 SpA, +20 SpD |
+| 27 | Mega Latios | Latiosite | Dragon/Psychic | Levitate | +40 Atk, +20 Def, +30 SpA, +10 SpD |
+| 28 | Mega Garchomp | Garchompite | Dragon/Ground | Sand Force | +40 Atk, +20 Def, +40 SpA, +10 SpD, -10 Spe |
+| 29 | Mega Lucario | Lucarionite | Fighting/Steel | Adaptability | +35 Atk, +18 Def, +25 SpA, +22 SpD |
+| 30 | Mega Abomasnow | Abomasite | Grass/Ice | Snow Warning | +40 Atk, +30 Def, +40 SpA, +20 SpD, -30 Spe |
+
+### GEN VI (ORAS) - 18 More Mega Forms
+
+| # | Mega Pokemon | Mega Stone | Type | Ability | Stat Changes |
+|---|-------------|------------|------|---------|---------------|
+| 31 | Mega Beedrill | Beedrillite | Bug/Poison | Adaptability | +70 Atk (Swarm pre-Mega), +40 Def, -5 SpA, +15 SpD, +70 Spe (30→100) |
+| 32 | Mega Pidgeot | Pidgeotite | Normal/Flying | No Guard | +5 Atk, +5 Def, +65 SpA, +10 SpD, +15 Spe |
+| 33 | Mega Slowbro | Slowbronite | Water/Psychic | Shell Armor | +70 Def, +30 SpA |
+| 34 | Mega Steelix | Steelixite | Steel/Ground | Sand Force | +40 Atk, +30 Def, +30 SpD |
+| 35 | Mega Sceptile | Sceptilite | Grass/Dragon | Lightning Rod | +25 Atk, +20 Def, +40 SpA, +15 Spe |
+| 36 | Mega Swampert | Swampertite | Water/Ground | Swift Swim | +40 Atk, +20 Def, +10 SpA, +20 SpD, +10 Spe |
+| 37 | Mega Sableye | Sablenite | Dark/Ghost | Magic Bounce | +10 Atk, +50 Def, +20 SpA, +50 SpD, -30 Spe |
+| 38 | Mega Sharpedo | Sharpedonite | Water/Dark | Strong Jaw | +20 Atk, +30 Def, +15 SpA, +25 SpD, +10 Spe |
+| 39 | Mega Camerupt | Cameruptite | Fire/Ground | Sheer Force | +20 Atk, +30 Def, +40 SpA, +30 SpD, -20 Spe |
+| 40 | Mega Altaria | Altarianite | Dragon/Fairy | Pixilate | +40 Atk, +20 Def, +40 SpA, +20 SpD |
+| 41 | Mega Glalie | Glalitite | Ice | Refrigerate | +40 Atk, +40 SpA, +20 Spe |
+| 42 | Mega Salamence | Salamencite | Dragon/Flying | Aerilate | +10 Atk, +50 Def, +10 SpA, +10 SpD, +20 Spe |
+| 43 | Mega Metagross | Metagrossite | Steel/Psychic | Tough Claws | +10 Atk, +20 Def, +10 SpA, +20 SpD, +40 Spe |
+| 44 | Mega Rayquaza | None* | Dragon/Flying | Delta Stream | +30 Atk, +10 Def, +30 SpA, +10 SpD, +20 Spe |
+| 45 | Mega Lopunny | Lopunnite | Normal/Fighting | Scrappy | +60 Atk, +10 Def, +30 SpD, +10 Spe |
+| 46 | Mega Gallade | Galladite | Psychic/Fighting | Inner Focus | +40 Atk, +30 Def, +10 SpD, +30 Spe |
+| 47 | Mega Audino | Audinite | Normal/Fairy | Healer | +10 Atk, +40 Def, +20 SpA, +40 SpD |
+| 48 | Mega Diancie | Diancite | Rock/Fairy | Magic Bounce | +60 Atk, +40 SpA, +60 Spe |
+
+### SPECIAL CASES
+- **Mega Rayquaza**: Does NOT need a Mega Stone! Only needs to know the move Dragon Ascent. Does NOT use the Mega Ring slot (can hold another item).
+- **Primal Reversion** (similar to Mega): Primal Groudon (Red Orb, Fire/Ground, Desolate Land) and Primal Kyogre (Blue Orb, Water, Primordial Sea). +100 BST each.
+
+## MEGA ABILITIES EXPLAINED
+- **Tough Claws**: +30% damage to contact moves
+- **Drought / Drizzle / Sand Stream / Snow Warning**: Sets weather on entry
+- **Mega Launcher**: +50% power to aura/pulse moves (Dark Pulse, Water Pulse, Heal Pulse, Aura Sphere, Dragon Pulse)
+- **Parental Bond**: Attacks hit twice (second at 25% power)
+- **Aerilate / Pixilate / Refrigerate**: Normal moves become Flying/Fairy/Ice and get +20% power
+- **Shadow Tag**: Opponent cannot switch
+- **Mold Breaker**: Ignores opponent abilities
+- **Technician**: +50% power to moves with ≤60 base power
+- **Skill Link**: Multi-hit moves always hit 5 times
+- **Huge Power / Pure Power**: Doubles Attack stat
+- **Magic Bounce**: Reflects status moves
+- **Adaptability**: STAB becomes 2x instead of 1.5x
+- **Speed Boost**: +1 Speed each turn
+- **Intimidate**: -1 Attack on opponent at entry
+- **Prankster**: +1 priority to status moves
+- **Strong Jaw**: +50% to bite moves
+- **Sheer Force**: Removes secondary effects for +30% power
+- **No Guard**: All moves hit (both sides)
+- **Filter**: Reduces super-effective damage by 25%
+- **Scrappy**: Can hit Ghost types with Normal/Fighting moves
+- **Delta Stream**: Negates Flying-type weaknesses, cancels other weather
+- **Desolate Land / Primordial Sea**: Extreme weather, Water/Fire moves fail
+- **Sand Force**: +30% Rock/Ground/Steel moves in Sandstorm
+- **Swift Swim**: 2x Speed in Rain
+- **Lightning Rod**: Draws Electric moves, +1 SpA when hit
+- **Solar Power**: +50% SpA in Sun, loses 1/8 HP per turn
+- **Thick Fat**: Halves Fire and Ice damage
+- **Insomnia**: Cannot fall asleep
+- **Steadfast**: +1 Speed when flinched
+- **Trace**: Copies opponent's ability
+- **Levitate**: Ground immunity
+- **Healer**: 30% chance to heal ally's status each turn
+- **Inner Focus**: Cannot flinch, blocks Intimidate
+
+NOTE: Mega Evolutions in Cobblemon may function depending on the mod version and complementary mods installed. The mechanics follow standard Pokémon rules.

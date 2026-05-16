@@ -1,0 +1,197 @@
+# ============================================================
+# COBBLEMON TYPE CHART - Complete Reference
+# Based on standard Pokemon type effectiveness (Cobblemon follows this)
+# ============================================================
+
+## TYPE EFFECTIVENESS CHART
+
+### Normal
+- Super effective against: (none)
+- Not very effective against: Rock, Steel
+- No effect against: Ghost
+- Weak to: Fighting
+- Resists: (none)
+- Immune to: Ghost
+- Normal attacks: No effect on Ghost. Not very effective on Rock and Steel.
+
+### Fire
+- Super effective against: Grass, Ice, Bug, Steel
+- Not very effective against: Fire, Water, Rock, Dragon
+- No effect against: (none)
+- Weak to: Water, Ground, Rock
+- Resists: Fire, Grass, Ice, Bug, Steel, Fairy
+- Immune to: (none)
+
+### Water
+- Super effective against: Fire, Ground, Rock
+- Not very effective against: Water, Grass, Dragon
+- No effect against: (none)
+- Weak to: Electric, Grass
+- Resists: Fire, Water, Ice, Steel
+- Immune to: (none)
+
+### Electric
+- Super effective against: Water, Flying
+- Not very effective against: Electric, Grass, Dragon
+- No effect against: Ground
+- Weak to: Ground
+- Resists: Electric, Flying, Steel
+- Immune to: (none)
+
+### Grass
+- Super effective against: Water, Ground, Rock
+- Not very effective against: Fire, Grass, Poison, Flying, Bug, Dragon, Steel
+- No effect against: (none)
+- Weak to: Fire, Ice, Poison, Flying, Bug
+- Resists: Water, Electric, Grass, Ground
+- Immune to: (none)
+
+### Ice
+- Super effective against: Grass, Ground, Flying, Dragon
+- Not very effective against: Fire, Water, Ice, Steel
+- No effect against: (none)
+- Weak to: Fire, Fighting, Rock, Steel
+- Resists: Ice
+- Immune to: (none)
+
+### Fighting
+- Super effective against: Normal, Ice, Rock, Dark, Steel
+- Not very effective against: Poison, Flying, Psychic, Bug, Fairy
+- No effect against: Ghost
+- Weak to: Flying, Psychic, Fairy
+- Resists: Bug, Rock, Dark
+- Immune to: (none)
+
+### Poison
+- Super effective against: Grass, Fairy
+- Not very effective against: Poison, Ground, Rock, Ghost
+- No effect against: Steel
+- Weak to: Ground, Psychic
+- Resists: Grass, Fighting, Poison, Bug, Fairy
+- Immune to: (none)
+
+### Ground
+- Super effective against: Fire, Electric, Poison, Rock, Steel
+- Not very effective against: Grass, Bug
+- No effect against: Flying
+- Weak to: Water, Grass, Ice
+- Resists: Poison, Rock
+- Immune to: Electric
+
+### Flying
+- Super effective against: Grass, Fighting, Bug
+- Not very effective against: Electric, Rock, Steel
+- No effect against: (none)
+- Weak to: Electric, Ice, Rock
+- Resists: Grass, Fighting, Bug
+- Immune to: Ground
+
+### Psychic
+- Super effective against: Fighting, Poison
+- Not very effective against: Psychic, Steel
+- No effect against: Dark
+- Weak to: Bug, Ghost, Dark
+- Resists: Fighting, Psychic
+- Immune to: (none)
+
+### Bug
+- Super effective against: Grass, Psychic, Dark
+- Not very effective against: Fire, Fighting, Poison, Flying, Ghost, Steel, Fairy
+- No effect against: (none)
+- Weak to: Fire, Flying, Rock
+- Resists: Grass, Fighting, Ground
+- Immune to: (none)
+
+### Rock
+- Super effective against: Fire, Ice, Flying, Bug
+- Not very effective against: Fighting, Ground, Steel
+- No effect against: (none)
+- Weak to: Water, Grass, Fighting, Ground, Steel
+- Resists: Normal, Fire, Poison, Flying
+- Immune to: (none)
+
+### Ghost
+- Super effective against: Psychic, Ghost
+- Not very effective against: Dark
+- No effect against: Normal
+- Weak to: Ghost, Dark
+- Resists: Poison, Bug
+- Immune to: Normal, Fighting
+
+### Dragon
+- Super effective against: Dragon
+- Not very effective against: Steel
+- No effect against: Fairy
+- Weak to: Ice, Dragon, Fairy
+- Resists: Fire, Water, Electric, Grass
+- Immune to: (none)
+
+### Dark
+- Super effective against: Psychic, Ghost
+- Not very effective against: Fighting, Dark, Fairy
+- No effect against: (none)
+- Weak to: Fighting, Bug, Fairy
+- Resists: Ghost, Dark
+- Immune to: Psychic
+
+### Steel
+- Super effective against: Ice, Rock, Fairy
+- Not very effective against: Fire, Water, Electric, Steel
+- No effect against: (none)
+- Weak to: Fire, Fighting, Ground
+- Resists: Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy
+- Immune to: Poison
+
+### Fairy
+- Super effective against: Fighting, Dragon, Dark
+- Not very effective against: Fire, Poison, Steel
+- No effect against: (none)
+- Weak to: Poison, Steel
+- Resists: Fighting, Bug, Dark
+- Immune to: Dragon
+
+## QUICK REFERENCE - DEFENDER WEAKNESSES
+
+Each type takes super effective damage from:
+- Normal: Fighting
+- Fire: Water, Ground, Rock
+- Water: Electric, Grass
+- Electric: Ground
+- Grass: Fire, Ice, Poison, Flying, Bug
+- Ice: Fire, Fighting, Rock, Steel
+- Fighting: Flying, Psychic, Fairy
+- Poison: Ground, Psychic
+- Ground: Water, Grass, Ice
+- Flying: Electric, Ice, Rock
+- Psychic: Bug, Ghost, Dark
+- Bug: Fire, Flying, Rock
+- Rock: Water, Grass, Fighting, Ground, Steel
+- Ghost: Ghost, Dark
+- Dragon: Ice, Dragon, Fairy
+- Dark: Fighting, Bug, Fairy
+- Steel: Fire, Fighting, Ground
+- Fairy: Poison, Steel
+
+## IMMUNITIES
+- Normal is immune to: Ghost
+- Ground is immune to: Electric
+- Flying is immune to: Ground
+- Ghost is immune to: Normal, Fighting
+- Dark is immune to: Psychic
+- Steel is immune to: Poison
+- Fairy is immune to: Dragon
+- (with Levitate ability or Air Balloon): immune to Ground
+- (with type resist berries or items like Safety Goggles): immune to powder/spore moves
+
+## TYPE COMBINATIONS - Common Attack Suggestions
+
+When facing dual-type Pokemon, use the type chart above. Examples:
+- Gengar (Ghost/Poison): Weak to Ground, Ghost, Dark, Psychic
+- Charizard (Fire/Flying): 4x weak to Rock. Also weak to Water, Electric.
+- Dragonite (Dragon/Flying): 4x weak to Ice. Also weak to Rock, Dragon, Fairy.
+- Tyranitar (Rock/Dark): 4x weak to Fighting. Also weak to Water, Grass, Ground, Bug, Steel, Fairy.
+- Gyarados (Water/Flying): 4x weak to Electric. Also weak to Rock.
+- Scizor (Bug/Steel): Only weak to Fire (4x).
+- Spiritomb (Ghost/Dark): Only weak to Fairy.
+- Swampert (Water/Ground): 4x weak to Grass.
+- Ferrothorn (Grass/Steel): 4x weak to Fire. Also weak to Fighting.

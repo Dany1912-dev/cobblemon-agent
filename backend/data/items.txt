@@ -1,0 +1,254 @@
+# ============================================================
+# COBBLEMON ITEMS - Complete Reference
+# Source: wiki.cobblemon.com
+# ============================================================
+
+## UTILITY ITEMS
+- Poke Ball: Standard device for catching wild Pokemon. Higher chance at lower HP and with status effects.
+- Ancient Poke Ball: Variant Poke Ball crafted from Apricorns.
+- Pokedex: Digital encyclopedia that records caught and seen Pokemon.
+- Poke Rod: Fishing tool used to catch aquatic Pokemon. Berries can be used as bait.
+- Campfire Pot: Cooking station for preparing food and brewing potions.
+
+## NATURAL ITEMS - Agriculture
+- Apricorn: Fruit used to craft Ancient Poke Balls. Available in multiple colors (Red, Blue, Yellow, Green, Pink, White, Black).
+- Apricorn Sprout: Plantable stage of Apricorn tree.
+- Medicinal Leek: Herb used in cooking and as held item for Farfetch'd and Sirfetch'd (increases critical hit ratio).
+- Big Root: Held item that boosts HP recovered from draining moves by 30%.
+- Energy Root: Restores 120 HP but lowers friendship. Bitter taste.
+- Revival Herb: Revives a fainted Pokemon to full HP but lowers friendship.
+- Mental Herb: Cures infatuation, taunt, encore, torment, disable, and heal block. Consumed on use.
+- Power Herb: Allows a move that requires a charge turn (like Solar Beam, Fly, Dig) to execute immediately. Single use.
+- White Herb: Resets any lowered stats when entering battle. Single use.
+- Mirror Herb: Copies an opponent's stat increases when entering battle. Single use.
+- Pep-Up Flower: Cures any status condition when used.
+- Vivichoke: Food ingredient used in cooking recipes.
+- Vivichoke Seeds: Seeds for growing Vivichoke.
+- Nature Mints: Changes a Pokemon's nature. Made from Pink Mint Leaf. Examples: Adamant Mint, Modest Mint, Jolly Mint, Timid Mint, etc.
+- Mint Seeds: Seeds for growing mint plants.
+- Galarica Nuts: Used to craft Galarica Cuff and Galarica Wreath.
+- Hearty Grains: Cooking ingredient for various food recipes.
+- Mulch: Soil enhancement for faster berry/fruit growth.
+
+## NATURAL ITEMS - Archaeology
+- Fossils: Used to revive ancient Pokemon. Types: Helix Fossil (Omanyte), Dome Fossil (Kabuto), Old Amber (Aerodactyl), Root Fossil (Lileep), Claw Fossil (Anorith), Skull Fossil (Cranidos), Armor Fossil (Shieldon), Cover Fossil (Tirtouga), Plume Fossil (Archen), Jaw Fossil (Tyrunt), Sail Fossil (Amaura).
+- Tumblestone: Basic mining resource found in various biomes.
+- Black Tumblestone: Rare variant used for special crafting.
+- Sky Tumblestone: Rare variant found at high altitudes.
+- Type Gems: Single-use held items that boost the power of one move matching their type by 30%. Available for all 18 types (Fire Gem, Water Gem, etc.).
+
+## MEDICINE
+- Potion: Restores 20 HP.
+- Super Potion: Restores 60 HP.
+- Hyper Potion: Restores 120 HP.
+- Max Potion: Restores HP to full.
+- Full Restore: Restores HP to full and cures all status conditions.
+- Medicinal Brew: Restores HP. Craftable.
+- Remedy: Cures status. Fine Remedy and Superb Remedy are better variants.
+- Berry Juice: Restores 20 HP. Crafted from any berry + Bowl.
+- Antidote: Cures poison.
+- Awakening: Cures sleep.
+- Burn Heal: Cures burn.
+- Ice Heal: Cures freeze.
+- Paralyze Heal: Cures paralysis.
+- Full Heal: Cures all status conditions.
+- Ether: Restores 10 PP to one move.
+- Max Ether: Restores PP to full for one move.
+- Elixir: Restores 10 PP to all moves.
+- Max Elixir: Restores PP to full for all moves.
+- Heal Powder: Cures all status conditions. Bitter taste lowers friendship.
+- Revive: Revives fainted Pokemon with half HP.
+- Max Revive: Revives fainted Pokemon with full HP.
+- Energy Root: Restores 120 HP but lowers friendship.
+
+## FOOD
+- Roasted Leek: Cooked food item. Restores HP and fullness.
+- Leek and Potato Stew: Cooked food. High HP restoration.
+- Vivichoke Dip: Food item. Restores HP.
+- Tasty Tail: Cooked from Slowpoke Tail. High HP restoration.
+- Candied Apple: Food item. Restores HP.
+- Candied Berries: Sweet berry-based food.
+- Ponigiri: Rice ball food.
+- Moomoo Milk: Restores 100 HP. From Miltank.
+- Sinister Tea: Food item. Ghost-type related.
+- Pewter Crunchies: Snack from Pewter City.
+- Rage Candy Bar: Consumable from Mahogany Town.
+- Lava Cookie: Cures all status conditions.
+- Old Gateau: Cures all status conditions. From Sinnoh.
+- Casteliacone: Cures all status conditions. From Unova.
+- Lumiose Galette: Cures all status conditions. From Kalos.
+- Big Malasada: Cures all status conditions. From Alola.
+- Smoked-Tail Curry: Cooked food. High HP restoration.
+- Jubilife Muffin: Food item.
+- Potato Mochi: Food item.
+- Open-Faced Sandwich: Food item.
+- Poke Bait: Used with Poke Rod for fishing.
+- Poke Snack: Treat for Pokemon.
+- Poke Cake: Special baked good for Pokemon.
+
+## STAT-CHANGING ITEMS
+- Rare Candy: Raises a Pokemon's level by 1.
+- Exp. Candy: Grants experience points. Variants: XS, S, M, L, XL.
+- HP Up: Adds 10 HP EVs (up to 100 EVs via vitamins).
+- Protein: Adds 10 Attack EVs.
+- Iron: Adds 10 Defense EVs.
+- Calcium: Adds 10 Special Attack EVs.
+- Zinc: Adds 10 Special Defense EVs.
+- Carbos: Adds 10 Speed EVs.
+- PP Up: Raises max PP of one move by 20% (max 60%).
+- PP Max: Raises max PP of one move to maximum.
+- Ability Capsule: Switches between a Pokemon's standard abilities.
+- Ability Patch: Changes to a Pokemon's hidden ability.
+- Aprijuice: Drink made from Apricorns. Effects vary by color.
+- Hyper Training Candy: Raises IVs through Hyper Training.
+- Dire Hit: Increases critical hit ratio in battle (temporary).
+- Guard Spec: Prevents stat reductions from enemy moves for 5 turns.
+- X Attack: Raises Attack by 1 stage in battle.
+- X Defense: Raises Defense by 1 stage in battle.
+- X Sp. Atk: Raises Special Attack by 1 stage in battle.
+- X Sp. Def: Raises Special Defense by 1 stage in battle.
+- X Speed: Raises Speed by 1 stage in battle.
+- X Accuracy: Raises accuracy by 1 stage in battle.
+- Feathers: Grants 1 EV. Types: Health Feather (HP), Muscle Feather (Atk), Resist Feather (Def), Genius Feather (SpAtk), Clever Feather (SpDef), Swift Feather (Spe).
+- Mochi: EV manipulating food. Health Mochi, Muscle Mochi, etc. Can reset or boost EVs.
+
+## EVOLUTION ITEMS
+- Evolution Stones: Fire Stone, Water Stone, Thunder Stone, Leaf Stone, Ice Stone, Moon Stone, Sun Stone, Shiny Stone, Dusk Stone, Dawn Stone.
+- Link Cable: Evolves Pokemon that normally evolve by trading.
+- King's Rock: Evolves Poliwhirl into Politoed, Slowpoke into Slowking.
+- Metal Coat: Evolves Onix into Steelix, Scyther into Scizor.
+- Dragon Scale: Evolves Seadra into Kingdra.
+- Upgrade: Evolves Porygon into Porygon2.
+- Dubious Disc: Evolves Porygon2 into Porygon-Z.
+- Protector: Evolves Rhydon into Rhyperior.
+- Electirizer: Evolves Electabuzz into Electivire.
+- Magmarizer: Evolves Magmar into Magmortar.
+- Razor Fang: Evolves Gligar into Gliscor.
+- Razor Claw: Evolves Sneasel into Weavile.
+- Prism Scale: Evolves Feebas into Milotic.
+- Reaper Cloth: Evolves Dusclops into Dusknoir.
+- Deep Sea Tooth: Evolves Clamperl into Huntail.
+- Deep Sea Scale: Evolves Clamperl into Gorebyss.
+- Sachet: Evolves Spritzee into Aromatisse.
+- Whipped Dream: Evolves Swirlix into Slurpuff.
+- Oval Stone: Evolves Happiny into Chansey.
+- Galarica Cuff: Evolves Galarian Slowpoke into Galarian Slowbro.
+- Galarica Wreath: Evolves Galarian Slowpoke into Galarian Slowking.
+- Black Augurite: Evolves Scyther into Kleavor.
+- Peat Block: Evolves Ursaring into Ursaluna.
+- Tart Apple: Evolves Applin into Flapple.
+- Sweet Apple: Evolves Applin into Appletun.
+- Syrupy Apple: Evolves Applin into Dipplin.
+- Cracked Pot: Evolves Sinistea (Phony) into Polteageist.
+- Chipped Pot: Evolves Sinistea (Antique) into Polteageist.
+- Unremarkable Teacup: Evolves Poltchageist (Unremarkable) into Sinistcha.
+- Masterpiece Teacup: Evolves Poltchageist (Masterpiece) into Sinistcha.
+- Auspicious Armor: Evolves Charcadet into Armarouge.
+- Malicious Armor: Evolves Charcadet into Ceruledge.
+- Metal Alloy: Evolves Duraludon into Archaludon.
+- Scroll of Darkness: Evolves Kubfu into Single Strike Urshifu.
+- Scroll of Waters: Evolves Kubfu into Rapid Strike Urshifu.
+
+## HELD ITEMS - Type Boosters (20% damage boost for moves of matching type)
+- Silk Scarf: Boosts Normal-type moves.
+- Black Belt: Boosts Fighting-type moves.
+- Sharp Beak: Boosts Flying-type moves.
+- Poison Barb: Boosts Poison-type moves.
+- Soft Sand: Boosts Ground-type moves.
+- Hard Stone: Boosts Rock-type moves.
+- Silver Powder: Boosts Bug-type moves.
+- Spell Tag: Boosts Ghost-type moves.
+- Charcoal Stick: Boosts Fire-type moves.
+- Mystic Water: Boosts Water-type moves.
+- Miracle Seed: Boosts Grass-type moves.
+- Magnet: Boosts Electric-type moves.
+- Twisted Spoon: Boosts Psychic-type moves.
+- Never-Melt Ice: Boosts Ice-type moves.
+- Dragon Fang: Boosts Dragon-type moves.
+- Black Glasses: Boosts Dark-type moves.
+- Metal Coat: Boosts Steel-type moves.
+- Fairy Feather: Boosts Fairy-type moves.
+
+## HELD ITEMS - Battle
+- Choice Band: Boosts Attack by 50% but locks user into one move.
+- Choice Specs: Boosts Special Attack by 50% but locks user into one move.
+- Choice Scarf: Boosts Speed by 50% but locks user into one move.
+- Assault Vest: Boosts Special Defense by 50% but prevents using status moves.
+- Muscle Band: Boosts physical moves by 10%.
+- Wise Glasses: Boosts special moves by 10%.
+- Expert Belt: Boosts super effective moves by 20%.
+- Life Orb: Boosts all moves by 30% but takes 10% HP per hit.
+- Wide Lens: Boosts accuracy by 10%.
+- Zoom Lens: Boosts accuracy by 20% if moving last.
+- Scope Lens: Increases critical hit ratio by 1 stage.
+- Eviolite: Boosts Defense and Special Defense by 50% if not fully evolved.
+- Focus Sash: If at full HP, survive a hit that would KO with 1 HP. Single use.
+- Focus Band: 10% chance to survive a KO hit with 1 HP. Reusable.
+- Leftovers: Restores 1/16 max HP each turn.
+- Black Sludge: Restores 1/16 max HP for Poison types; damages non-Poison types by 1/8.
+- Shell Bell: Restores 1/8 of damage dealt as HP.
+- Rocky Helmet: Damages attackers using contact moves by 1/6 max HP.
+- Sticky Barb: Damages holder by 1/8 HP per turn. Transfers to attacker on contact.
+- Toxic Orb: Badly poisons the holder at end of turn.
+- Flame Orb: Burns the holder at end of turn.
+- Absorb Bulb: Raises Special Attack by 1 stage when hit by Water move. Single use.
+- Luminous Moss: Raises Special Defense by 1 stage when hit by Water move. Single use.
+- Cell Battery: Raises Attack by 1 stage when hit by Electric move. Single use.
+- Weakness Policy: Raises Attack and Special Attack by 2 stages when hit super effectively. Single use.
+- Blunder Policy: Raises Speed by 2 stages if a move misses. Single use.
+- Binding Band: Boosts binding moves (Wrap, Bind, Fire Spin, etc.) damage by 50%.
+- Throat Spray: Raises Special Attack by 1 stage after using a sound move. Single use.
+- Punching Glove: Boosts punching moves by 10% and prevents contact effects.
+- Loaded Dice: Multi-hit moves (like Bullet Seed) hit more times.
+- Metronome: Boosts damage by 20% for each consecutive use of the same move (up to 100%).
+- Light Ball: Doubles Pikachu's Attack and Special Attack. Specific to Pikachu.
+- Quick Claw: 20% chance to move first in same priority bracket.
+- Lagging Tail: Holder always moves last in its priority bracket.
+- Float Stone: Halves the holder's weight.
+- Iron Ball: Doubles weight, grounds holder (vulnerable to Ground moves), halves Speed.
+- Shed Shell: Allows switching out even when trapped by moves like Mean Look or abilities like Shadow Tag.
+- Eject Button: Forces switch out when hit. Single use.
+- Eject Pack: Forces switch out when stats are lowered. Single use.
+- Red Card: Forces the attacker to switch when holder is hit. Single use.
+- Smoke Ball: Guarantees escape from wild Pokemon.
+- Cleanse Tag: Reduces wild Pokemon encounter rate.
+- Destiny Knot: If the holder becomes infatuated, the attacker also becomes infatuated.
+- Soothe Bell: Doubles friendship gain.
+- Everstone: Prevents evolution.
+- Bright Powder: Reduces opponent's accuracy by 10%.
+- Air Balloon: Holder floats, immune to Ground moves. Bursts when hit by a damaging move.
+- Heavy-Duty Boots: Immune to entry hazards (Stealth Rock, Spikes, Sticky Web, Toxic Spikes).
+- Safety Goggles: Immune to powder/spore moves (Sleep Powder, Spore, etc.) and weather damage.
+- Utility Umbrella: Holder ignores rain and sun effects.
+- Room Service: Lowers Speed by 1 stage in Trick Room. Single use.
+- Light Clay: Extends Light Screen, Reflect, and Aurora Veil from 5 to 8 turns.
+- Heat Rock: Extends Sunny Day from 5 to 8 turns.
+- Damp Rock: Extends Rain Dance from 5 to 8 turns.
+- Icy Rock: Extends Hail/Snow from 5 to 8 turns.
+- Smooth Rock: Extends Sandstorm from 5 to 8 turns.
+- Terrain Extender: Extends terrain moves from 5 to 8 turns.
+- Grip Claw: Extends partial trapping moves from 4-5 to 7 turns.
+- Electric Seed: Boosts Defense in Electric Terrain. Single use.
+- Psychic Seed: Boosts Special Defense in Psychic Terrain. Single use.
+- Grassy Seed: Boosts Defense in Grassy Terrain. Single use.
+- Misty Seed: Boosts Special Defense in Misty Terrain. Single use.
+- Covert Cloak: Blocks additional effects from moves (flinch, status, stat drops).
+- Clear Amulet: Prevents stat drops from opponents.
+- Protective Pads: Blocks effects from contact moves (Static, Flame Body, Rocky Helmet, etc.).
+- Ability Shield: Prevents ability changes or suppression.
+- Ring Target: Removes type-based immunities on holder.
+- Exp. Share: Holder receives full EXP even without participating in battle. Spreads EXP to party when active Pokemon battles.
+- Lucky Egg: Doubles EXP gained.
+- Power Weight: Boosts HP EV gain from battle, halves Speed in battle.
+- Power Bracer: Boosts Attack EV gain, halves Speed in battle.
+- Power Belt: Boosts Defense EV gain, halves Speed in battle.
+- Power Lens: Boosts Special Attack EV gain, halves Speed in battle.
+- Power Band: Boosts Special Defense EV gain, halves Speed in battle.
+- Power Anklet: Boosts Speed EV gain, halves Speed in battle.
+
+## MISCELLANEOUS
+- Relic Coin: Collectible currency. Can be stored in Relic Coin Pouch.
+- Relic Coin Pouch: Container for Relic Coins.
+- Smithing Templates: Used for armor trim customization.
+- Pottery Sherds: Decorative fragments.
+- Pokemon Model: Decorative display item (command only).

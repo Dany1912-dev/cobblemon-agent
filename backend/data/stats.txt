@@ -1,0 +1,107 @@
+# ============================================================
+# POKEMON STATS & TRAINING REFERENCE
+# EVs, IVs, Natures, Base Stats
+# ============================================================
+
+## SIX STATS
+- HP: Hit Points - determines how much damage a Pokemon can take
+- Attack: Physical damage output
+- Defense: Physical damage resistance
+- Special Attack: Special damage output
+- Special Defense: Special damage resistance
+- Speed: Determines move order in battle (higher goes first, unless priority moves)
+
+## BASE STATS
+Each Pokemon species has fixed base stats. Combined with IVs, EVs, and Nature, these determine the actual stats.
+
+### Base Stat Total (BST) Tiers
+- 720: Arceus
+- 680: Legendary cover Pokemon (Mewtwo, Rayquaza, Dialga, etc.)
+- 600: Pseudo-legendaries (Dragonite, Tyranitar, Salamence, Metagross, Garchomp, Hydreigon, Goodra, Kommo-o, Dragapult, Baxcalibur)
+- 570-580: Legendary trios, Ultra Beasts
+- 525-540: Fully evolved starters
+- 450-500: Most fully evolved "standard" Pokemon
+- 300-400: Middle evolutions and strong single-stage Pokemon
+- 175-250: Baby Pokemon and early bugs
+
+## IVs (INDIVIDUAL VALUES)
+- Range: 0-31 for each stat
+- Determined when the Pokemon spawns or hatches
+- Cannot be changed (except through Hyper Training to max at 31)
+- At level 100, each IV equals 1 stat point
+- "Perfect" or "6IV" means 31 in all 6 stats
+- For Hidden Power (if in Cobblemon), IV spread determines type
+- For Trick Room teams, 0 Speed IV is ideal
+
+## EVs (EFFORT VALUES)
+- Range: 0-252 per stat, 510 total max across all stats
+- Gained by defeating Pokemon or using vitamins (HP Up, Protein, Iron, etc.)
+- At level 100: 4 EVs = 1 stat point (so 252 EVs = +63 to that stat)
+- Common EV spreads:
+  - 252 Atk / 252 Spe / 4 HP: Fast physical sweeper
+  - 252 SpA / 252 Spe / 4 HP: Fast special sweeper
+  - 252 HP / 252 Atk / 4 Def: Bulky physical attacker
+  - 252 HP / 252 Def / 4 SpD: Physical wall
+  - 252 HP / 252 SpD / 4 Def: Special wall
+
+### EV Training Items
+- Power Weight: +8 HP EVs per KO
+- Power Bracer: +8 Attack EVs per KO
+- Power Belt: +8 Defense EVs per KO
+- Power Lens: +8 Sp. Atk EVs per KO
+- Power Band: +8 Sp. Def EVs per KO
+- Power Anklet: +8 Speed EVs per KO
+
+### EV-Reducing Berries
+- Pomeg Berry: -10 HP EVs
+- Kelpsy Berry: -10 Attack EVs
+- Qualot Berry: -10 Defense EVs
+- Hondew Berry: -10 Sp. Atk EVs
+- Grepa Berry: -10 Sp. Def EVs
+- Tamato Berry: -10 Speed EVs
+
+### Vitamins (add 10 EVs each, up to 100 per stat)
+- HP Up, Protein, Iron, Calcium, Zinc, Carbos
+
+## NATURES (25 total, 5 neutral + 20 stat-modifying)
+Each Nature raises one stat by 10% and lowers another by 10% (except neutral natures).
+
+| Nature | +Stat | -Stat |
+|--------|-------|-------|
+| Adamant | Attack | Sp. Atk |
+| Bold | Defense | Attack |
+| Brave | Attack | Speed |
+| Calm | Sp. Def | Attack |
+| Careful | Sp. Def | Sp. Atk |
+| Gentle | Sp. Def | Defense |
+| Hasty | Speed | Defense |
+| Impish | Defense | Sp. Atk |
+| Jolly | Speed | Sp. Atk |
+| Lax | Defense | Sp. Def |
+| Lonely | Attack | Defense |
+| Mild | Sp. Atk | Defense |
+| Modest | Sp. Atk | Attack |
+| Naive | Speed | Sp. Def |
+| Naughty | Attack | Sp. Def |
+| Quiet | Sp. Atk | Speed |
+| Rash | Sp. Atk | Sp. Def |
+| Relaxed | Defense | Speed |
+| Sassy | Sp. Def | Speed |
+| Timid | Speed | Attack |
+
+Neutral Natures (no stat change): Hardy, Docile, Serious, Bashful, Quirky
+
+### Nature Mints (Cobblemon: Pink Mint Leaf + crafting)
+Mints change a Pokemon's stat growth to match a specific nature without changing the actual nature.
+
+## STAT CALCULATION
+At level 50 (common competitive level):
+- HP = floor((2×Base + IV + floor(EV/4)) × Level/100) + Level + 10
+- Other Stats = floor((2×Base + IV + floor(EV/4)) × Level/100 + 5) × Nature
+
+At level 100:
+- Each IV = 1 stat point
+- 4 EVs = 1 stat point
+- Nature = 10% boost/reduction
+
+NOTE: Cobblemon likely scales stats to match Minecraft's real-time combat if it doesn't use turn-based battles. The IV/EV/Nature system is still relevant for competitive play and breeding.

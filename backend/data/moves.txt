@@ -1,0 +1,69 @@
+# ============================================================
+# POKEMON MOVES / ATTACKS REFERENCE
+# Standard Pokémon mechanics - Cobblemon implements moves faithfully
+# ============================================================
+
+## MOVE CATEGORIES
+- Physical: Uses Attack stat and is affected by burn, Intimidate, etc. Contact moves trigger abilities like Static, Flame Body.
+- Special: Uses Special Attack stat. Not affected by burn's Attack drop.
+- Status: Non-damaging moves that buff, debuff, inflict status, set weather/terrain, etc.
+
+## MOVE PRIORITY
+Some moves have increased or decreased priority:
+- +5: Helping Hand
+- +4: Baneful Bunker, Detect, Endure, King's Shield, Magic Coat, Obstruct, Protect, Silk Trap, Snatch, Spiky Shield
+- +3: Fake Out, Quick Guard, Wide Guard
+- +2: Ally Switch, Extreme Speed, Feint, First Impression, Follow Me, Rage Powder
+- +1: Accelerock, Aqua Jet, Baby-Doll Eyes, Bullet Punch, Grassy Glide, Ice Shard, Mach Punch, Prankster moves, Quick Attack, Shadow Sneak, Sucker Punch, Vacuum Wave, Water Shuriken
+- 0: Most moves
+- -1: Vital Throw
+- -3: Beak Blast, Focus Punch, Shell Trap
+- -5: Avalanche, Revenge
+- -6: Circle Throw, Dragon Tail, Roar, Whirlwind
+- -7: Trick Room, Magic Room, Wonder Room
+
+## IMPORTANT STATUS MOVES
+### Entry Hazards
+- Stealth Rock: Deals Rock-type damage based on type effectiveness (1/8 to 1/2 HP). Most important hazard.
+- Spikes: Up to 3 layers (1/8, 1/6, 1/4 HP). Grounded Pokemon only.
+- Toxic Spikes: Up to 2 layers (poison, bad poison). Grounded, non-Steel, non-Poison types.
+- Sticky Web: Lowers Speed by 1 stage. Grounded Pokemon only.
+
+### Hazard Removal
+- Rapid Spin: Removes hazards on user's side, raises Speed. 50 BP Normal physical.
+- Defog: Removes hazards on BOTH sides, lowers opponent's evasion.
+- Mortal Spin: Removes hazards, poisons opponent. 30 BP Poison physical.
+
+### Setup Moves
+- Swords Dance: +2 Attack
+- Nasty Plot: +2 Special Attack
+- Dragon Dance: +1 Attack, +1 Speed
+- Quiver Dance: +1 Special Attack, +1 Special Defense, +1 Speed
+- Calm Mind: +1 Special Attack, +1 Special Defense
+- Bulk Up: +1 Attack, +1 Defense
+- Shell Smash: +2 Attack, +2 Special Attack, +2 Speed, -1 Defense, -1 Special Defense
+- Iron Defense: +2 Defense
+- Amnesia: +2 Special Defense
+- Agility / Rock Polish / Autotomize: +2 Speed
+- Belly Drum: Maxes Attack (+6) but loses 50% HP
+
+## COBBLEMON-SPECIFIC MOVE NOTES
+- Moves function identically to main Pokémon games
+- PP system works the same (5-40 PP per move)
+- STAB (Same Type Attack Bonus): 1.5x damage if move type matches user's type
+- Physical/Special split is based on Gen 4+ classification
+- Move tutors may be available in specific structures or NPCs
+
+## TRICK ROOM (Espacio Raro / Distorsión en español)
+- Move: Trick Room | Type: Psychic | Category: Status | PP: 5 (max 8) | Priority: -7
+- Effect: For 5 turns, Speed order REVERSES. Slowest move first, fastest move last.
+- Cancels: Using Trick Room again cancels it.
+- Priority still works normally (+1, +2, Sucker Punch, etc., still go before normal moves)
+- Good abusers (slow + high Attack/SpA): Ursaluna, Conkeldurr, Rhyperior, Torkoal, Iron Hands, Marowak-Alola
+- Good setters: Hatterene, Cresselia, Porygon2, Slowking, Farigiraf, Indeedee-F
+- Items: Room Service (consumed on entry, -1 Speed in Trick Room), Mental Herb (blocks Taunt)
+- Counter: Taunt the setter, priority moves, stall with Protect, use your own Trick Room to cancel
+
+## MOVE MECHANICS REFERENCE
+For detailed stats on any specific move (base power, accuracy, PP, effects), ask this agent.
+It has full knowledge of all 900+ Pokémon moves from its training data.

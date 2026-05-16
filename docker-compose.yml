@@ -1,0 +1,42 @@
+services:
+  backend:
+    build: ./backend
+    container_name: cobblemon-backend
+    env_file:
+      - ./backend/.env
+    volumes:
+      - sqlite_data:/app/data
+      - exports_data:/app/exports
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  frontend:
+    build: ./frontend
+    container_name: cobblemon-frontend
+    ports:
+      - "127.0.0.1:8080:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: cobblemon-tunnel
+    command: tunnel run
+    environment:
+      - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}
+    depends_on:
+      - frontend
+    restart: unless-stopped
+    profiles:
+      - tunnel
+
+volumes:
+  sqlite_data:
+    driver: local
+  exports_data:
+    driver: local

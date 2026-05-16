@@ -1,0 +1,42 @@
+# Entorno Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+*.pyo
+
+# Entorno Node
+frontend/node_modules/
+frontend/dist/
+
+# API Keys y variables de entorno (NUNCA subir)
+.env
+backend/.env
+
+# Base de datos (datos locales, no del repo)
+*.db
+*.db-journal
+*.db-wal
+
+# Archivos exportados
+backend/exports/
+backend/data/conversations.db
+
+# UV lock (se regenera)
+uv.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
+
+# Docker (solo volumes locales)
+docker-compose.override.yml

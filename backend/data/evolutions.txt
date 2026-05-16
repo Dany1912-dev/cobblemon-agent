@@ -1,0 +1,143 @@
+# ============================================================
+# COBBLEMON / POKEMON EVOLUTION MECHANICS
+# Methods, items, and conditions for evolution
+# ============================================================
+
+## EVOLUTION METHODS IN COBBLEMON
+
+### Level-Up Evolution
+The most common method. Pokemon evolves upon reaching a specific level.
+- Example: Charmander → Charmeleon (Lv16) → Charizard (Lv36)
+- Example: Dratini → Dragonair (Lv30) → Dragonite (Lv55)
+- Example: Deino → Zweilous (Lv50) → Hydreigon (Lv64)
+
+### Item Evolution
+Use a specific item on the Pokemon to trigger evolution.
+- Fire Stone: Vulpix → Ninetales, Growlithe → Arcanine, Eevee → Flareon
+- Water Stone: Poliwhirl → Poliwrath, Shellder → Cloyster, Eevee → Vaporeon
+- Thunder Stone: Pikachu → Raichu, Eevee → Jolteon
+- Leaf Stone: Gloom → Vileplume, Weepinbell → Victreebel
+- Ice Stone: Eevee → Glaceon, Crabrawler → Crabominable
+- Moon Stone: Nidorino → Nidoking, Nidorina → Nidoqueen, Clefairy → Clefable
+- Sun Stone: Gloom → Bellossom, Sunkern → Sunflora
+- Shiny Stone: Togetic → Togekiss, Roselia → Roserade
+- Dusk Stone: Murkrow → Honchkrow, Misdreavus → Mismagius
+- Dawn Stone: Kirlia (male) → Gallade, Snorunt (female) → Froslass
+
+### Trade Evolution
+Trade the Pokemon with another player to trigger evolution.
+- Haunter → Gengar
+- Kadabra → Alakazam
+- Machoke → Machamp
+- Graveler → Golem
+- Boldore → Gigalith
+- Gurrdurr → Conkeldurr
+- Phantump → Trevenant
+- Pumpkaboo → Gourgeist
+
+### Trade + Held Item Evolution
+Give a specific item to hold, then trade.
+- Onix + Metal Coat → Steelix
+- Scyther + Metal Coat → Scizor
+- Porygon + Upgrade → Porygon2
+- Porygon2 + Dubious Disc → Porygon-Z
+- Seadra + Dragon Scale → Kingdra
+- Rhyhorn + Protector → Rhyperior
+- Electabuzz + Electirizer → Electivire
+- Magmar + Magmarizer → Magmortar
+- Feebas + Prism Scale → Milotic
+- Dusclops + Reaper Cloth → Dusknoir
+- Clamperl + Deep Sea Tooth → Huntail
+- Clamperl + Deep Sea Scale → Gorebyss
+- Gligar + Razor Fang → Gliscor (night)
+- Sneasel + Razor Claw → Weavile (night)
+- Poliwhirl + King's Rock → Politoed
+- Slowpoke + King's Rock → Slowking
+- Spritzee + Sachet → Aromatisse
+- Swirlix + Whipped Dream → Slurpuff
+
+### Link Cable Evolution (Cobblemon specific!)
+Cobblemon uses a **Link Cable** item to simulate trade evolution without actually trading.
+- Right-click a Pokemon with a Link Cable to evolve it (if it evolves by trading)
+- Works for all trade evolutions: Haunter, Kadabra, Machoke, Graveler, etc.
+
+### Cobblemon-Specific Evolution Items
+- Galarica Cuff: Galarian Slowpoke → Galarian Slowbro
+- Galarica Wreath: Galarian Slowpoke → Galarian Slowking
+- Black Augurite: Scyther → Kleavor
+- Peat Block: Ursaring → Ursaluna (night, full moon)
+- Tart Apple: Applin → Flapple
+- Sweet Apple: Applin → Appletun
+- Syrupy Apple: Applin → Dipplin
+- Cracked Pot: Sinistea (Phony) → Polteageist
+- Chipped Pot: Sinistea (Antique) → Polteageist
+- Unremarkable Teacup: Poltchageist (Unremarkable) → Sinistcha
+- Masterpiece Teacup: Poltchageist (Masterpiece) → Sinistcha
+- Auspicious Armor: Charcadet → Armarouge
+- Malicious Armor: Charcadet → Ceruledge
+- Metal Alloy: Duraludon → Archaludon
+- Scroll of Darkness: Kubfu → Single Strike Urshifu
+- Scroll of Waters: Kubfu → Rapid Strike Urshifu
+
+### Friendship/Happiness Evolution
+Some Pokemon evolve when their friendship is high enough.
+- Golbat → Crobat
+- Chansey → Blissey
+- Eevee → Espeon (day) or Umbreon (night)
+- Pichu → Pikachu
+- Cleffa → Clefairy
+- Igglybuff → Jigglypuff
+- Togepi → Togetic
+- Azurill → Marill
+- Budew → Roselia (day)
+- Chingling → Chimecho (night)
+- Munchlax → Snorlax
+- Riolu → Lucario (day)
+- Buneary → Lopunny
+- Type: Null → Silvally
+- Swadloon → Leavanny
+
+### Time-Based Evolution
+- Eevee → Espeon (day + friendship) / Umbreon (night + friendship)
+- Rockruff → Lycanroc-Midday (day) / Lycanroc-Midnight (night) / Lycanroc-Dusk (dusk, Own Tempo)
+- Fomantis → Lurantis (day only)
+- Yungoos → Gumshoos (day only)
+- Amaura → Aurorus (night only)
+- Tyrunt → Tyrantrum (day only)
+- Cosmoem → Solgaleo (day) / Lunala (night)
+
+### Location-Based Evolution
+- Magneton → Magnezone (Magnetic Field biome / Thunder Stone in Cobblemon)
+- Nosepass → Probopass (Magnetic Field biome / Thunder Stone in Cobblemon)
+- Eevee → Leafeon (near Mossy Rock / Leaf Stone in Cobblemon)
+- Eevee → Glaceon (near Icy Rock / Ice Stone in Cobblemon)
+- Charjabug → Vikavolt (Magnetic Field / Thunder Stone)
+- Crabrawler → Crabominable (Snowy biome / Ice Stone)
+
+### Special Conditions
+- Nincada → Ninjask (Lv20) + Shedinja (empty party slot + Poké Ball in inventory)
+- Mantine: level up with Remoraid in party
+- Pancham → Pangoro (Lv32+, Dark type in party)
+- Inkay → Malamar (Lv30+, hold console upside down... in Cobblemon: use during night)
+- Milcery → Alcremie (hold Sweet, spin)
+- Yamask → Runerigus (take 49+ damage then pass under stone arch)
+- Galarian Yamask → Runerigus (similar special condition)
+- Galarian Farfetch'd → Sirfetch'd (land 3 critical hits in one battle)
+- Primeape → Annihilape (use Rage Fist 20 times)
+- Gimmighoul → Gholdengo (999 Gimmighoul Coins)
+- Pawmo → Pawmot (walk 1000 steps with it following you)
+- Bramblin → Brambleghast (walk 1000 steps)
+- Rellor → Rabsca (walk 1000 steps)
+- Finizen → Palafin (Lv38+ while in multiplayer)
+- Dunsparce → Dudunsparce (level up knowing Hyper Drill)
+- Stantler → Wyrdeer (use Psyshield Bash 20 times in Agile Style)
+- Scyther → Kleavor (use Black Augurite)
+- Ursaring → Ursaluna (Peat Block + night + full moon)
+- Petilil → Lilligant-Hisui (Sun Stone)
+- Rufflet → Braviary-Hisui (level up in mountains)
+- Goomy → Sliggoo-Hisui (level up in rainy biome)
+- Bergmite → Avalugg-Hisui (level up in snowy mountains)
+- Qwilfish-Hisui → Overqwil (use Barb Barrage 20 times)
+- Basculin-White Stripe → Basculegion (take 294+ recoil damage without fainting)
+
+NOTE: Cobblemon may simplify some of the more complex evolution conditions due to Minecraft mechanics limitations. When in doubt, the evolution item or level-up method will work.

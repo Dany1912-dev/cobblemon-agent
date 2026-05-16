@@ -1,0 +1,120 @@
+# ============================================================
+# POKEMON BREEDING MECHANICS
+# For Cobblemon + complementary mods (standard Pokémon breeding rules)
+# ============================================================
+
+## BREEDING BASICS
+- Two compatible Pokemon left together can produce an Egg
+- The Egg hatches into a level 1 Pokemon of the female's species (or non-Ditto parent)
+- Eggs are produced at a rate based on the parents' relationship
+- "They prefer to play with other Pokemon" = same species, different OT = fastest
+- "They get along" = same species same OT, or different species = normal
+- "They don't seem to like each other" = different species, different OT = slow
+- "They prefer to play with other Pokemon" (not each other) = no eggs
+
+## EGG GROUPS (18 groups)
+Pokemon can only breed with others in the same Egg Group (except Ditto).
+
+1. **Monster**: Bulbasaur, Charmander, Squirtle, Nidorans, Slowpoke, Snorlax, Larvitar, etc.
+2. **Water 1**: Psyduck, Poliwag, Tentacool, Slowpoke, Seel, Horsea, Goldeen, Magikarp, Totodile, Marill, Wooper, etc.
+3. **Bug**: Caterpie, Weedle, Paras, Venonat, Pinsir, Scyther, Heracross, Wurmple, etc.
+4. **Flying**: Pidgey, Spearow, Zubat, Farfetch'd, Doduo, Hoothoot, Natu, Murkrow, Taillow, Wingull, Starly, etc.
+5. **Field**: Rattata, Pikachu, Sandshrew, Nidorans, Vulpix, Growlithe, Ponyta, Abra, Eevee, Cyndaquil, Sentret, Zigzagoon, etc. (LARGEST GROUP)
+6. **Fairy**: Clefairy, Jigglypuff, Chansey, Togetic, Marill, Hoppip, Snubbull, Ralts, Skitty, etc.
+7. **Grass**: Bulbasaur, Oddish, Paras, Bellsprout, Exeggcute, Tangela, Hoppip, Sunkern, Seedot, Shroomish, Roselia, etc.
+8. **Human-Like**: Abra, Machop, Drowzee, Hitmons, Mr. Mime, Jynx, Electabuzz, Magmar, Meditite, Ralts, Makuhita, etc.
+9. **Water 3**: Krabby, Kingler, Shellder, Corsola, Anorith, Lileep, Clamperl, Crabrawler, etc.
+10. **Mineral**: Geodude, Magnemite, Onix, Voltorb, Porygon, Nosepass, Beldum, Bronzor, etc.
+11. **Amorphous**: Grimer, Gastly, Koffing, Misdreavus, Wobbuffet, Ralts, Shuppet, Duskull, Spiritomb, etc.
+12. **Water 2**: Goldeen, Magikarp, Carvanha, Wailmer, Feebas, Barboach, Basculin, etc.
+13. **Ditto (special)**: Ditto can breed with ANY Pokemon (except Undiscovered and other Ditto)
+14. **Dragon**: Dratini, Bagon, Axew, Gible, Deino, Goomy, Horsea, Magikarp, Swablu, Altaria, etc.
+15. **Undiscovered (NO EGGS)**: Legendary Pokemon, Mythical Pokemon, Baby Pokemon, Nidorina/Nidoqueen, Unown
+16. **Monster**: (see above)
+17. **Amorphous**: (see above)
+18. **Field**: (see above)
+
+## GENDER RATIOS
+- 50% Male / 50% Female: Most Pokemon
+- 87.5% Male / 12.5% Female: Starters, Eevee, Snorlax, fossils, etc.
+- 25% Male / 75% Female: Some species (Clefairy, Jigglypuff, etc.)
+- 100% Male / 0% Female: Hitmons, Tauros, Braviary, Throh, Sawk, etc.
+- 0% Male / 100% Female: Chansey, Jynx, Kangaskhan, Miltank, Petilil, Vullaby, Flabébé, etc.
+- Gender Unknown: Magnemite, Voltorb, Staryu, Porygon, Shedinja, Lunatone, Solrock, Beldum, etc. (can only breed with Ditto)
+
+## EGG GROUP DETAILS — Which Pokemon Belongs Where
+
+### Monster Group
+Bulbasaur, Charmander, Squirtle, Nidoran, Slowpoke, Cubone, Rhyhorn, Kangaskhan, Snorlax, Chikorita, Cyndaquil, Totodile, Mareep, Larvitar, Treecko, Mudkip, Whismur, Aron, Bagon, Turtwig, Chimchar, Piplup, Gible, Cranidos, Shieldon, Snover, Snivy, Tepig, Oshawott, Axew, Deino, Helioptile, Tyrunt, Amaura, Goomy, Bergmite, Noibat, Grookey, Scorbunny, Sobble, Dreepy
+
+### Water 1 Group
+Poliwag, Psyduck, Slowpoke (also Monster), Seel, Horsea, Goldeen, Staryu, Totodile (also Monster), Marill (also Fairy), Wooper (also Field), Corsola, Remoraid, Delibird (also Field), Mudkip (also Monster), Wingull, Surskit, Corphish, Feebas, Clamperl, Piplup (also Monster), Buizel (also Field), Finneon, Oshawott (also Field), Tympole, Ducklett
+
+### Bug Group
+Caterpie, Weedle, Paras, Venonat, Pinsir, Ledyba, Spinarak, Yanma, Pineco, Shuckle, Wurmple, Surskit (also Water 1), Nincada, Volbeat, Illumise, Kricketot, Combee, Skorupi, Venipede, Sewaddle, Dwebble, Karrablast, Joltik, Durant, Larvesta, Scatterbug, Grubbin, Cutiefly, Dewpider, Wimpod, Blipbug, Sizzlipede, Snom
+
+### Flying Group
+Pidgey, Spearow, Zubat, Farfetch'd, Doduo, Hoothoot, Natu, Murkrow, Skarmory, Taillow, Wingull, Swablu, Starly, Chatot, Pidove, Ducklett (also Water 1), Rufflet, Vullaby, Fletchling, Noibat, Pikipek, Oricorio, Rookidee, Cramorant, Bombirdier, Flamigo, Wattrel, Squawkabilly
+
+### Field Group (largest, ~150+ Pokemon)
+Pikachu, Sandshrew, Nidoran (also Monster), Vulpix, Growlithe, Ponyta, Rhyhorn (also Monster), Eevee, Cyndaquil (also Monster), Sentret, Mareep (also Monster), Aipom, Wooper (also Water 1), Girafarig, Snubbull, Sneasel, Swinub, Houndour, Stantler, Zigzagoon, Slakoth, Whismur (also Monster), Numel, Zangoose, Seviper, Absol, Bidoof, Shinx, Pachirisu, Buizel (also Water 1), Glameow, Stunky, Purrloin, Blitzle, Drillbur, Sandile, Zorua, Minccino, Deerling, Emolga, Scraggy, Litleo, Skiddo, Furfrou, Dedenne, Rockruff, Stufful, Nickit, Wooloo, Yamper, Sprigatito, Fuecoco, Quaxly, Lechonk, Pawmi, Fidough, Maschiff, Greavard, Cyclizar
+
+### Fairy Group
+Clefairy, Jigglypuff, Chansey, Togetic, Marill (also Water 1), Hoppip (also Grass), Snubbull (also Field), Ralts (also Human-Like, Amorphous), Skitty (also Field), Mawile (also Field), Swirlix, Spritzee, Dedenne (also Field), Flabebe, Cutiefly (also Bug), Comfey, Milcery, Hatenna, Impidimp, Fidough (also Field), Tinkatink
+
+### Grass Group
+Bulbasaur (also Monster), Oddish, Bellsprout, Exeggcute, Tangela, Chikorita (also Monster), Hoppip (also Fairy), Sunkern, Seedot, Shroomish, Roselia, Cacnea, Turtwig (also Monster), Cherubi, Snover (also Monster), Snivy (also Field), Pansage, Cottonee, Petilil, Maractus, Ferroseed, Skiddo (also Field), Phantump, Pumpkaboo, Rowlet, Fomantis, Morelull, Bounsweet, Grookey (also Field), Applin
+
+### Human-Like Group
+Abra, Machop, Drowzee, Hitmonlee, Hitmonchan, Mr. Mime, Jynx, Electabuzz, Magmar, Meditite, Ralts (also Amorphous, Fairy), Makuhita, Sableye, Spinda, Cacnea (also Grass), Chimchar (also Field), Lucario (also Field), Croagunk, Timburr, Sawk, Throh, Gothita, Mienfoo, Pancham, Hawlucha, Indeedee, Falinks, Pawmo (also Field)
+
+### Water 3 Group
+Krabby, Shellder, Omanyte, Kabuto, Tentacool, Corsola (also Water 1), Anorith, Lileep, Clamperl, Binacle, Crabrawler, Wimpod (also Bug), Clobbopus, Pincurchin
+
+### Mineral Group
+Geodude, Magnemite, Onix, Voltorb, Porygon, Nosepass, Beldum, Bronzor, Roggenrola, Ferroseed (also Grass), Klink, Cryogonal, Honedge, Carbink, Minior, Dhelmise, Sinistea, Rolycoly, Glimmet, Varoom, Nacli
+
+### Amorphous Group
+Grimer, Gastly, Koffing, Misdreavus, Wobbuffet, Ralts (also Human-Like, Fairy), Gulpin, Shuppet, Duskull, Chimecho, Drifloon, Spiritomb, Rotom, Yamask, Solosis, Vanillite, Litwick, Frillish, Goomy, Sandygast, Sinistea (also Mineral), Poltchageist, Gimmighoul
+
+### Water 2 Group
+Goldeen, Magikarp, Chinchou, Qwilfish, Remoraid, Carvanha, Wailmer, Barboach, Feebas, Relicanth, Luvdisc, Finneon, Tympole, Basculin, Alomomola, Wishiwashi, Bruxish, Arrokuda, Veluza
+
+### Ditto Group
+Only Ditto. Can breed with ANY Pokemon (except No Eggs Discovered and other Ditto). The egg is always the non-Ditto parent's species.
+
+### Dragon Group
+Charmander (also Monster), Ekans, Horsea (also Water 1), Magikarp (also Water 2), Dratini (also Water 1), Swablu (also Flying), Bagon, Gible (also Monster), Axew (also Monster), Deino, Goomy (also Amorphous), Noibat (also Flying), Turtonator, Drampa, Applin (also Grass), Dreepy (also Amorphous), Cyclizar (also Field), Frigibax
+
+### No Eggs Discovered (CANNOT BREED)
+All Legendary Pokemon, all Mythical Pokemon, all Baby Pokemon (Pichu, Cleffa, Igglybuff, Togepi, Tyrogue, Smoochum, Elekid, Magby, Azurill, Wynaut, Budew, Chingling, Bonsly, Mime Jr., Happiny, Munchlax, Riolu, Mantyke, Toxel), Nidorina, Nidoqueen, Unown
+
+## EGG MOVES
+- A baby Pokemon can inherit certain moves from its parents
+- If both parents know a move the baby can learn by level-up, the baby will have it
+- If the father knows a TM/TR/egg move compatible with the baby, it's inherited
+- In Cobblemon, egg moves may be obtainable via the Move Tutor or from wild spawns
+
+## INCENSE BREEDING
+Some Pokemon require a parent to hold a specific incense to produce baby forms:
+- Sea Incense: Marill/Azumarill → Azurill
+- Lax Incense: Wobbuffet → Wynaut
+- Rose Incense: Roselia/Roserade → Budew
+- Pure Incense: Chimecho → Chingling
+- Luck Incense: Chansey/Blissey → Happiny
+- Full Incense: Snorlax → Munchlax
+- Wave Incense: Mantine → Mantyke
+- Rock Incense: Sudowoodo → Bonsly
+
+## HATCHING
+- Eggs hatch after a certain number of steps (egg cycles)
+- Each Pokemon species has a different hatch time (e.g., Magikarp = fast, Dratini = slow)
+- Flame Body / Magma Armor ability halves egg hatch time
+- In Cobblemon, eggs likely hatch based on ticks/play time
+
+## BREEDING FOR IVs
+- Destiny Knot: if one parent holds it, 5 IVs are passed down instead of 3
+- Power Items: guarantee passing down a specific stat's IV (Power Weight = HP, Power Bracer = Atk, etc.)
+- Everstone: passes down the parent's Nature 100% of the time
+
+NOTE: Breeding mechanics in Cobblemon may depend on which complementary mods are installed. Standard Pokémon breeding rules are the default assumption.
